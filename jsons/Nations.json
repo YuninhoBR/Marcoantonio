@@ -1,0 +1,30 @@
+[
+
+//nations
+
+{
+ "Name": "Reino dos Inuites",
+ "LeaderName": "Test",
+ "adjective": ["Inuit"],
+ "startBias": ["Snow"],
+ "preferredVictoryType": "Domination",
+ "startIntroPart1": "Liberdade ou morte",
+ "startIntroPart2": "AVANTE!",
+ "declaringWar": "Prepare para o seu pior pesadelo.",
+ "attacked": "Seu covarde maldito!, prepara para a sua morte",
+ "defeated": "Nunca seremos ser esquecidos...", 
+ "introduction": "Seja bem vindo minha Imperatriz, a sua beleza empresta para todas as províncias do nosso reino, mostre para os nossos inimigos a sua força de avalanche!",
+ "neutralHello": "Bom dia rabuda",
+ "hateHello": "Ah vai tomar no seu cu",
+ "tradeRequest": "Melhor pegar logo se não vou aceitar não.",
+ "outerColor": [0, 0, 0],
+ "innerColor": [255, 255, 255],
+ "favoredReligion": "Christianity",
+ "uniqueName": "Povo seleto por o Criador",
+ "uniques": ["[+5 food] from every [Farm] in a [Trunda]"],
+ "cities": ["Nuuk","Salazar","Adolf Hitler","Mussolini","Airton Senna","Jair Messias Bolsonaro","Bob marley","VPN grátis para todo o Brasil","Heroína"]
+
+},
+
+]
+		
